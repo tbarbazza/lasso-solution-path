@@ -1,4 +1,4 @@
-# Newton-and-Quasi-Newton-Methods-for-Unconstrained-Optimization
+# The Solution Path of the Generalized LASSO: Application to Statistical Learning
 
 
 Stage universitaire — Master 1 Mathématiques Appliquées (2023-2024) - Institut de mathématiques de Bourgogne
